@@ -1,3 +1,5 @@
+
+#Run data_load.R to prep data
 #Plot1
 p1 <- p
 png("Plot1.png", width = 480, height = 480)
